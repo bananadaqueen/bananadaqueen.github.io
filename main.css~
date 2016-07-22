@@ -12,6 +12,7 @@ body {
   background-image: url('http://thewallpaper.co/wp-content/uploads/2016/01/cool-nature-photos-hd-landscape-wallpapers-green-plants-sky-free-images-windows-desktop-images-best-nature-images-1600x950-736x459.jpg');
 background-color: rgba(2,48,247,216,.7);
   background-position: center top;
+background-repeat: no-repeat;
   width: 100%;
   margin: 0;
 
