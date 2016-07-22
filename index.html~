@@ -8,16 +8,18 @@
 </head>
 
 <body>
-<body>
+<div align= "center">
 <h1>GAME WORLD</h1>
       <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/71689126/?autostart=false" frameborder="0" allowfullscreen></iframe>
     
-</B>
+</BR>
 <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/71871116/?autostart=false" frameborder="0" allowfullscreen></iframe>
+
+
     
 <P> Made by Banan Garada 2016</p>
 
-<body>
+</div align= "center">
 </body>
 </div>
 </html>
